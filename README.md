@@ -31,7 +31,7 @@ Swift-streams
 
 Subtitles
 
-and more stuf..
+and more stuff...
 
 There is no TVA stuff here!!!
 
