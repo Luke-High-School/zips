@@ -4,7 +4,7 @@
     
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/Luke-High-School/zip/master/addon.xml</info>
-        <checksum>https://raw.githubusercontent.com/Luke-High-School/zip/master/addon.xml.md5
+        <checksum>https://raw.githubusercontent.com/Luke-High-School/zip/master/addon.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/zip/master/</datadir>
     </dir>
     <dir>
