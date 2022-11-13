@@ -45,8 +45,8 @@ Instructions for adding this repo:
     <li>Go to "Addons"</li>
     <li>In Addons, install an addon from zip.  When it asks for the location, select "LUSD Repo", and install <a href="repository.lusd-master.zip">repository.lusd-master.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
-    <li>Select the "repository.lusd-master"</li>
-    <li>Go into the "Video add-ons" section in the repo, and you'll find Cy4root</li>
+    <li>Select the "repository.LUSD-Latest"</li>
+    <li>Go into the "Video add-ons" section in the repo, and you'll find LUSD Repo</li>
   </ul>
 </p>
 
